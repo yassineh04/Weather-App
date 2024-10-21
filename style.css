@@ -87,7 +87,7 @@ h1.temp{
 .weather.loading:after{
     visibility: visible;
     content:"Loading...";
-    color:rgb(27, 26, 26);
+    color:whitesmoke;
     position:absolute;
     top:0;
     left:20px;
